@@ -1,0 +1,8 @@
+.botonColores {
+    width: 110px;
+}
+
+.botonColoresDeshab {
+    width: 110px;
+    filter: opacity(80%);
+}
